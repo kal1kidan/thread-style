@@ -21,6 +21,8 @@ This project was created as part of our web development learning journey and sho
 
 ## 📸 Screenshots
 ![Project Screenshot](images/screenshot.png)
+![Screenshot 2](images/image1.png)
+![Screenshot 3](images/image2.png)
 
 ---
 
